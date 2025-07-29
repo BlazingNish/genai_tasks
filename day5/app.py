@@ -89,6 +89,8 @@ if process_button and uploaded_file is not None:
 elif process_button and uploaded_file is None:
     st.warning("Please upload a file first.")
 
+
+# Added Day 6 tasks of creating embedding using SentenceTransformer
 if st.session_state.chunks:
     st.subheader(f"Results from '{chunker_type}' Splitter")
     
