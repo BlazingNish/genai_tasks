@@ -1,0 +1,65 @@
+What were the primary data sources used in the study to analyze the financial behaviors of millennial mobile payment users?
+
+According to the research, what are the key demographic differences between millennials who use mobile payments and those who do not?
+
+What is the relationship between using mobile payments and engaging in expensive financial behaviors, such as overdrawing a checking account or using alternative financial services?
+
+How does financial literacy affect the financial management practices of millennial mobile payment users compared to non-users?
+
+What did the study conclude about the financial risks and opportunities for the fintech industry concerning millennial mobile payment users?
+
+From: The State of Ransomware 2025
+
+What was the most common technical root cause for ransomware attacks in 2025, and what percentage of incidents did it account for?
+Answer:
+For the third consecutive year, exploited vulnerabilities was the most common technical root cause of ransomware attacks. This method was used to penetrate organizations in 32% of all reported incidents
+
+How did the average (median) ransom payment change between the 2024 and 2025 reports?
+
+Answer:
+The average (median) ransom payment fell by 50% in the last year. It dropped from $2 million in 2024 to $1 million in 2025. This decrease is primarily attributed to a reduction in ransom payments of $5 million or more.
+
+What were the top three operational factors that left organizations exposed to ransomware attacks?
+
+Answer:
+The top three operational factors that contributed to organizations falling victim to ransomware were:
+Lack of expertise, cited by 40.2% of victims.
+Unknown security gaps that the organization was not aware of, a factor in 40.1% of attacks.
+Lack of people/capacity to monitor systems, contributing to 39.4% of attacks.
+
+What percentage of organizations that had their data encrypted were able to recover it, and what was the most common recovery method?
+
+Answer:
+In 2025, 97% of organizations that experienced data encryption were able to recover it. The most frequent recovery method was using backups, which was employed in 54% of incidents where data was restored.
+
+According to the report, what are some of the human consequences that IT and cybersecurity teams face after a ransomware attack results in data encryption?
+
+Answer:
+Every organization reported direct repercussions for their IT/cybersecurity teams after data was encrypted. The most common human impacts included:
+Increased anxiety or stress about future attacks (41%).
+Increased pressure from senior leaders (40%).
+Feelings of guilt that the attack was not stopped (34%).
+Staff absence due to stress or mental health issues (31%).
+
+
+From: Surveys of Consumers, June 2025
+
+What was the value of the Index of Consumer Sentiment in June 2025, and what was the trend compared to the previous month?
+
+Answer:
+The Index of Consumer Sentiment was 60.7 in June 2025. This represented a 16% surge from May, marking the first increase in the index in six months.
+
+How did year-ahead inflation expectations change between May and June 2025?
+
+Answer:
+Year-ahead inflation expectations plummeted from 6.6% in May to 5.0% in June 2025. The June figure was the lowest reading in three to four months.
+
+In the June 2025 survey, what percentage of consumers spontaneously mentioned tariffs, and how did their sentiment compare to those who didn't?
+
+Answer:
+About 59% of consumers spontaneously made comments about tariffs. Consumers who mentioned tariffs had lower sentiment and higher inflation expectations than those who did not mention them.
+
+What were consumers' expectations regarding unemployment for the year ahead?
+
+Answer:
+In June 2025, about 57% of consumers expected unemployment to rise in the coming year. While this was an improvement from 66% in March, it was still significantly higher than the 40% who expected a rise in December 2024.
